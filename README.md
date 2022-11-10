@@ -1,1 +1,1 @@
-# mini-frontend-html-css-js
+# MiniDOGE.finance-jer
